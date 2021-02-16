@@ -1,5 +1,5 @@
 
-import './App.css';
+import './Styles.css';
 import React from "react";
 import Weather from "./Weather.js";
 
